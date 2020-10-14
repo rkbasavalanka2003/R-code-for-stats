@@ -4,3 +4,4 @@ The data is diffrent health parameters like weight, sblood sugar level, BP, chol
 1. people who did yoga (yoga) 2. people did not do yoga (control)
 Parameters were measured before yoga implimentation and after yoga implimentation for 6 months
 We have to check whether there are significant difference between yoga and control treatments with respect to different health parameters 
+PCA is done to reduce number of dimenstions and to also preparation of elbow plot to know upto howmany PC numbers can give sufficient (99%) information for further analysis
